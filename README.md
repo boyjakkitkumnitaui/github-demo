@@ -11,3 +11,5 @@ This line from local repository
 >>>>>>> origin/master
 
 This line from local repository
+
+ Git stashing demo line.
