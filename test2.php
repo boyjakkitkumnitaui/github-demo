@@ -1,7 +1,5 @@
 <html>
-    <header>
-
-    </header>
+    <header></header>
     <title></title>
     <body></body>
 </html>
